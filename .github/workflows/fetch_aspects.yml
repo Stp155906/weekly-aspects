@@ -1,8 +1,6 @@
 name: Fetch Weekly Aspects
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs at midnight UTC every day
   workflow_dispatch:
 
 jobs:
@@ -33,8 +31,7 @@ jobs:
           git push origin main
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-        # Using the GH_PAT to authenticate the push
-        - name: Push changes
-          run: |
-            git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
-            git push origin main
+      - name: Push changes
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
+          git push origin main
