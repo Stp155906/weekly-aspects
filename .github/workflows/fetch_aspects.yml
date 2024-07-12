@@ -2,12 +2,13 @@ name: Fetch Weekly Aspects
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Runs at 00:00 UTC every Monday
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
   workflow_dispatch:
 
 jobs:
   fetch_aspects:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -15,22 +16,18 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.x
+          python-version: 3.8
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install skyfield
+        run: pip install skyfield
 
-      - name: Run fetch_aspects script
+      - name: Fetch and save weekly aspects
         run: python fetch_aspects.py
 
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add weekview.json
-          git commit -m 'Update weekly aspects'
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update weekly aspects data" || echo "No changes to commit"
+          git push origin main
