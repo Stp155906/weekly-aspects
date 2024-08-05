@@ -1,107 +1,6 @@
 {
     "weekly_aspects": [
         {
-            "date": "2024-08-04",
-            "aspects": [
-                {
-                    "planet1": "mercury",
-                    "planet2": "venus",
-                    "aspect": "conjunction",
-                    "angle": 5.391670742332593
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "mars",
-                    "aspect": "square",
-                    "angle": 84.39690309275629
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "jupiter",
-                    "aspect": "quintile",
-                    "angle": 79.11152741176447
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "uranus",
-                    "aspect": "square",
-                    "angle": 97.12512773966044
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "mercury",
-                    "aspect": "conjunction",
-                    "angle": 5.391670742332593
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "mars",
-                    "aspect": "quintile",
-                    "angle": 79.0052323504237
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "jupiter",
-                    "aspect": "quintile",
-                    "angle": 73.71985666943188
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "uranus",
-                    "aspect": "square",
-                    "angle": 91.73345699732785
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "mercury",
-                    "aspect": "square",
-                    "angle": 84.39690309275629
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "venus",
-                    "aspect": "quintile",
-                    "angle": 79.0052323504237
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "jupiter",
-                    "aspect": "conjunction",
-                    "angle": 5.2853756809918195
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mercury",
-                    "aspect": "quintile",
-                    "angle": 79.11152741176447
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "venus",
-                    "aspect": "quintile",
-                    "angle": 73.71985666943188
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mars",
-                    "aspect": "conjunction",
-                    "angle": 5.2853756809918195
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "mercury",
-                    "aspect": "square",
-                    "angle": 97.12512773966044
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "venus",
-                    "aspect": "square",
-                    "angle": 91.73345699732785
-                }
-            ]
-        },
-        {
             "date": "2024-08-05",
             "aspects": [
                 {
@@ -608,6 +507,83 @@
                     "planet2": "mercury",
                     "aspect": "square",
                     "angle": 96.04514709102031
+                }
+            ]
+        },
+        {
+            "date": "2024-08-11",
+            "aspects": [
+                {
+                    "planet1": "mercury",
+                    "planet2": "venus",
+                    "aspect": "conjunction",
+                    "angle": 4.623295549421215
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "mars",
+                    "aspect": "quintile",
+                    "angle": 78.32786327416201
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "jupiter",
+                    "aspect": "quintile",
+                    "angle": 76.5203884219225
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "uranus",
+                    "aspect": "square",
+                    "angle": 95.5612538340548
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "mercury",
+                    "aspect": "conjunction",
+                    "angle": 4.623295549421215
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "mars",
+                    "aspect": "square",
+                    "angle": 82.95115882358323
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "mercury",
+                    "aspect": "quintile",
+                    "angle": 78.32786327416201
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "venus",
+                    "aspect": "square",
+                    "angle": 82.95115882358323
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "jupiter",
+                    "aspect": "conjunction",
+                    "angle": 1.8074748522395083
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mercury",
+                    "aspect": "quintile",
+                    "angle": 76.5203884219225
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mars",
+                    "aspect": "conjunction",
+                    "angle": 1.8074748522395083
+                },
+                {
+                    "planet1": "uranus",
+                    "planet2": "mercury",
+                    "aspect": "square",
+                    "angle": 95.5612538340548
                 }
             ]
         }
