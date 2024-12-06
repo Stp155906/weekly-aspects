@@ -1,119 +1,6 @@
 {
     "weekly_aspects": [
         {
-            "date": "2024-12-05",
-            "aspects": [
-                {
-                    "planet1": "mercury",
-                    "planet2": "venus",
-                    "aspect": "semi-square",
-                    "angle": 41.42293088803211
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "mars",
-                    "aspect": "sesquiquadrate",
-                    "angle": 129.81043257114948
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "jupiter",
-                    "aspect": "opposition",
-                    "angle": 179.30983945095159
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "saturn",
-                    "aspect": "square",
-                    "angle": 87.06557142691878
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "mercury",
-                    "aspect": "semi-square",
-                    "angle": 41.42293088803211
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "saturn",
-                    "aspect": "semi-square",
-                    "angle": 45.64264053888667
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "neptune",
-                    "aspect": "sextile",
-                    "angle": 59.75285081028693
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "mercury",
-                    "aspect": "sesquiquadrate",
-                    "angle": 129.81043257114948
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "jupiter",
-                    "aspect": "semi-square",
-                    "angle": 49.49940687980211
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "uranus",
-                    "aspect": "quintile",
-                    "angle": 71.63458771363236
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mercury",
-                    "aspect": "opposition",
-                    "angle": 179.30983945095159
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mars",
-                    "aspect": "semi-square",
-                    "angle": 49.49940687980211
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "uranus",
-                    "aspect": "semi-sextile",
-                    "angle": 22.135180833830248
-                },
-                {
-                    "planet1": "saturn",
-                    "planet2": "mercury",
-                    "aspect": "square",
-                    "angle": 87.06557142691878
-                },
-                {
-                    "planet1": "saturn",
-                    "planet2": "venus",
-                    "aspect": "semi-square",
-                    "angle": 45.64264053888667
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "mars",
-                    "aspect": "quintile",
-                    "angle": 71.63458771363236
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "jupiter",
-                    "aspect": "semi-sextile",
-                    "angle": 22.135180833830248
-                },
-                {
-                    "planet1": "neptune",
-                    "planet2": "venus",
-                    "aspect": "sextile",
-                    "angle": 59.75285081028693
-                }
-            ]
-        },
-        {
             "date": "2024-12-06",
             "aspects": [
                 {
@@ -824,6 +711,131 @@
                     "planet2": "venus",
                     "aspect": "semi-square",
                     "angle": 52.82642663802278
+                }
+            ]
+        },
+        {
+            "date": "2024-12-12",
+            "aspects": [
+                {
+                    "planet1": "mercury",
+                    "planet2": "venus",
+                    "aspect": "sextile",
+                    "angle": 57.716087178924
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "mars",
+                    "aspect": "trine",
+                    "angle": 121.73444052177388
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "jupiter",
+                    "aspect": "opposition",
+                    "angle": 172.04215733474308
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "saturn",
+                    "aspect": "square",
+                    "angle": 95.56509206012856
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "mercury",
+                    "aspect": "sextile",
+                    "angle": 57.716087178924
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "mars",
+                    "aspect": "opposition",
+                    "angle": 179.45052770069788
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "saturn",
+                    "aspect": "semi-sextile",
+                    "angle": 37.849004881204564
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "saturn",
+                    "aspect": "semi-square",
+                    "angle": 37.849004881204564
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "neptune",
+                    "aspect": "semi-square",
+                    "angle": 51.68235042502101
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "mercury",
+                    "aspect": "trine",
+                    "angle": 121.73444052177388
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "venus",
+                    "aspect": "opposition",
+                    "angle": 179.45052770069788
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "jupiter",
+                    "aspect": "semi-square",
+                    "angle": 50.30771681296919
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "uranus",
+                    "aspect": "quintile",
+                    "angle": 71.75277340130177
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mercury",
+                    "aspect": "opposition",
+                    "angle": 172.04215733474308
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mars",
+                    "aspect": "semi-square",
+                    "angle": 50.30771681296919
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "mercury",
+                    "aspect": "square",
+                    "angle": 95.56509206012856
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "venus",
+                    "aspect": "semi-sextile",
+                    "angle": 37.849004881204564
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "venus",
+                    "aspect": "semi-square",
+                    "angle": 37.849004881204564
+                },
+                {
+                    "planet1": "uranus",
+                    "planet2": "mars",
+                    "aspect": "quintile",
+                    "angle": 71.75277340130177
+                },
+                {
+                    "planet1": "neptune",
+                    "planet2": "venus",
+                    "aspect": "semi-square",
+                    "angle": 51.68235042502101
                 }
             ]
         }
