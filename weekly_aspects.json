@@ -1,447 +1,6 @@
 {
     "weekly_aspects": [
         {
-            "date": "2025-10-22",
-            "aspects": [
-                {
-                    "body1": "jupiter",
-                    "body2": "mars",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 115.93,
-                    "orb_deg": 4.07,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "jupiter": {
-                            "lon_deg": 114.1,
-                            "sign": "Cancer",
-                            "speed_deg_per_day": 0.063
-                        },
-                        "mars": {
-                            "lon_deg": 230.03,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 0.705
-                        }
-                    },
-                    "importance_score": 0.338
-                },
-                {
-                    "body1": "jupiter",
-                    "body2": "mercury",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 116.924,
-                    "orb_deg": 3.076,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "jupiter": {
-                            "lon_deg": 114.1,
-                            "sign": "Cancer",
-                            "speed_deg_per_day": 0.063
-                        },
-                        "mercury": {
-                            "lon_deg": 231.02,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 1.261
-                        }
-                    },
-                    "importance_score": 0.5
-                },
-                {
-                    "body1": "jupiter",
-                    "body2": "neptune",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 114.45,
-                    "orb_deg": 5.55,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "jupiter": {
-                            "lon_deg": 114.1,
-                            "sign": "Cancer",
-                            "speed_deg_per_day": 0.063
-                        },
-                        "neptune": {
-                            "lon_deg": 359.65,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.024
-                        }
-                    },
-                    "importance_score": 0.075
-                },
-                {
-                    "body1": "jupiter",
-                    "body2": "saturn",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 118.141,
-                    "orb_deg": 1.859,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "jupiter": {
-                            "lon_deg": 114.1,
-                            "sign": "Cancer",
-                            "speed_deg_per_day": 0.063
-                        },
-                        "saturn": {
-                            "lon_deg": 355.96,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.058
-                        }
-                    },
-                    "importance_score": 0.725
-                },
-                {
-                    "body1": "jupiter",
-                    "body2": "sun",
-                    "aspect_name": "square",
-                    "family": "4th-harmonic",
-                    "vibe": "tension",
-                    "ideal_angle_deg": 90.0,
-                    "angle_measured_deg": 94.385,
-                    "orb_deg": 4.385,
-                    "phase": "separating",
-                    "out_of_sign": false,
-                    "positions": {
-                        "jupiter": {
-                            "lon_deg": 114.1,
-                            "sign": "Cancer",
-                            "speed_deg_per_day": 0.063
-                        },
-                        "sun": {
-                            "lon_deg": 208.48,
-                            "sign": "Libra",
-                            "speed_deg_per_day": 0.996
-                        }
-                    },
-                    "importance_score": 0.31
-                },
-                {
-                    "body1": "mars",
-                    "body2": "mercury",
-                    "aspect_name": "conjunction",
-                    "family": "1st-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 0.0,
-                    "angle_measured_deg": 0.994,
-                    "orb_deg": 0.994,
-                    "phase": "separating",
-                    "out_of_sign": false,
-                    "positions": {
-                        "mars": {
-                            "lon_deg": 230.03,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 0.705
-                        },
-                        "mercury": {
-                            "lon_deg": 231.02,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 1.261
-                        }
-                    },
-                    "importance_score": 0.898
-                },
-                {
-                    "body1": "mars",
-                    "body2": "saturn",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 125.929,
-                    "orb_deg": 5.929,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "mars": {
-                            "lon_deg": 230.03,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 0.705
-                        },
-                        "saturn": {
-                            "lon_deg": 355.96,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.058
-                        }
-                    },
-                    "importance_score": 0.012
-                },
-                {
-                    "body1": "mercury",
-                    "body2": "saturn",
-                    "aspect_name": "trine",
-                    "family": "3rd-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 120.0,
-                    "angle_measured_deg": 124.934,
-                    "orb_deg": 4.934,
-                    "phase": "applying",
-                    "out_of_sign": false,
-                    "positions": {
-                        "mercury": {
-                            "lon_deg": 231.02,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 1.261
-                        },
-                        "saturn": {
-                            "lon_deg": 355.96,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.058
-                        }
-                    },
-                    "importance_score": 0.182
-                },
-                {
-                    "body1": "moon",
-                    "body2": "sun",
-                    "aspect_name": "conjunction",
-                    "family": "1st-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 0.0,
-                    "angle_measured_deg": 5.196,
-                    "orb_deg": 5.196,
-                    "phase": "separating",
-                    "out_of_sign": true,
-                    "positions": {
-                        "moon": {
-                            "lon_deg": 213.68,
-                            "sign": "Scorpio",
-                            "speed_deg_per_day": 12.419
-                        },
-                        "sun": {
-                            "lon_deg": 208.48,
-                            "sign": "Libra",
-                            "speed_deg_per_day": 0.996
-                        }
-                    },
-                    "importance_score": 0.438
-                },
-                {
-                    "body1": "neptune",
-                    "body2": "saturn",
-                    "aspect_name": "conjunction",
-                    "family": "1st-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 0.0,
-                    "angle_measured_deg": 3.691,
-                    "orb_deg": 3.691,
-                    "phase": "separating",
-                    "out_of_sign": false,
-                    "positions": {
-                        "neptune": {
-                            "lon_deg": 359.65,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.024
-                        },
-                        "saturn": {
-                            "lon_deg": 355.96,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.058
-                        }
-                    },
-                    "importance_score": 0.539
-                },
-                {
-                    "body1": "neptune",
-                    "body2": "sun",
-                    "aspect_name": "quincunx",
-                    "family": "12th-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 150.0,
-                    "angle_measured_deg": 151.165,
-                    "orb_deg": 1.165,
-                    "phase": "applying",
-                    "out_of_sign": true,
-                    "positions": {
-                        "neptune": {
-                            "lon_deg": 359.65,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.024
-                        },
-                        "sun": {
-                            "lon_deg": 208.48,
-                            "sign": "Libra",
-                            "speed_deg_per_day": 0.996
-                        }
-                    },
-                    "importance_score": 0.673
-                },
-                {
-                    "body1": "neptune",
-                    "body2": "uranus",
-                    "aspect_name": "sextile",
-                    "family": "6th-harmonic",
-                    "vibe": "harmony",
-                    "ideal_angle_deg": 60.0,
-                    "angle_measured_deg": 60.628,
-                    "orb_deg": 0.628,
-                    "phase": "applying",
-                    "out_of_sign": true,
-                    "positions": {
-                        "neptune": {
-                            "lon_deg": 359.65,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.024
-                        },
-                        "uranus": {
-                            "lon_deg": 60.28,
-                            "sign": "Gemini",
-                            "speed_deg_per_day": -0.034
-                        }
-                    },
-                    "importance_score": 0.801
-                },
-                {
-                    "body1": "saturn",
-                    "body2": "sun",
-                    "aspect_name": "quincunx",
-                    "family": "12th-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 150.0,
-                    "angle_measured_deg": 147.474,
-                    "orb_deg": 2.526,
-                    "phase": "separating",
-                    "out_of_sign": true,
-                    "positions": {
-                        "saturn": {
-                            "lon_deg": 355.96,
-                            "sign": "Pisces",
-                            "speed_deg_per_day": -0.058
-                        },
-                        "sun": {
-                            "lon_deg": 208.48,
-                            "sign": "Libra",
-                            "speed_deg_per_day": 0.996
-                        }
-                    },
-                    "importance_score": 0.182
-                },
-                {
-                    "body1": "sun",
-                    "body2": "uranus",
-                    "aspect_name": "quincunx",
-                    "family": "12th-harmonic",
-                    "vibe": "neutral",
-                    "ideal_angle_deg": 150.0,
-                    "angle_measured_deg": 148.207,
-                    "orb_deg": 1.793,
-                    "phase": "applying",
-                    "out_of_sign": true,
-                    "positions": {
-                        "sun": {
-                            "lon_deg": 208.48,
-                            "sign": "Libra",
-                            "speed_deg_per_day": 0.996
-                        },
-                        "uranus": {
-                            "lon_deg": 60.28,
-                            "sign": "Gemini",
-                            "speed_deg_per_day": -0.034
-                        }
-                    },
-                    "importance_score": 0.443
-                }
-            ],
-            "patterns": [
-                {
-                    "pattern_type": "Yod",
-                    "members": [
-                        "neptune",
-                        "sun",
-                        "uranus"
-                    ],
-                    "edges": [
-                        {
-                            "body1": "neptune",
-                            "body2": "uranus",
-                            "aspect_name": "sextile"
-                        },
-                        {
-                            "body1": "neptune",
-                            "body2": "sun",
-                            "aspect_name": "quincunx"
-                        },
-                        {
-                            "body1": "sun",
-                            "body2": "uranus",
-                            "aspect_name": "quincunx"
-                        }
-                    ],
-                    "pattern_score": 0.8,
-                    "has_out_of_sign": true,
-                    "pattern_strength_score": 0.569
-                },
-                {
-                    "pattern_type": "Grand Trine",
-                    "members": [
-                        "jupiter",
-                        "mars",
-                        "saturn"
-                    ],
-                    "edges": [
-                        {
-                            "body1": "jupiter",
-                            "body2": "mars",
-                            "aspect_name": "trine"
-                        },
-                        {
-                            "body1": "jupiter",
-                            "body2": "saturn",
-                            "aspect_name": "trine"
-                        },
-                        {
-                            "body1": "mars",
-                            "body2": "saturn",
-                            "aspect_name": "trine"
-                        }
-                    ],
-                    "pattern_score": 0.8,
-                    "has_out_of_sign": false,
-                    "pattern_strength_score": 0.341
-                },
-                {
-                    "pattern_type": "Grand Trine",
-                    "members": [
-                        "jupiter",
-                        "mercury",
-                        "saturn"
-                    ],
-                    "edges": [
-                        {
-                            "body1": "jupiter",
-                            "body2": "mercury",
-                            "aspect_name": "trine"
-                        },
-                        {
-                            "body1": "jupiter",
-                            "body2": "saturn",
-                            "aspect_name": "trine"
-                        },
-                        {
-                            "body1": "mercury",
-                            "body2": "saturn",
-                            "aspect_name": "trine"
-                        }
-                    ],
-                    "pattern_score": 0.8,
-                    "has_out_of_sign": false,
-                    "pattern_strength_score": 0.452
-                }
-            ]
-        },
-        {
             "date": "2025-10-23",
             "aspects": [
                 {
@@ -3652,6 +3211,776 @@
                     "pattern_score": 0.8,
                     "has_out_of_sign": false,
                     "pattern_strength_score": 0.593
+                }
+            ]
+        },
+        {
+            "date": "2025-10-29",
+            "aspects": [
+                {
+                    "body1": "jupiter",
+                    "body2": "mars",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 120.488,
+                    "orb_deg": 0.488,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "jupiter": {
+                            "lon_deg": 114.48,
+                            "sign": "Cancer",
+                            "speed_deg_per_day": 0.042
+                        },
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        }
+                    },
+                    "importance_score": 0.965
+                },
+                {
+                    "body1": "jupiter",
+                    "body2": "mercury",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 124.68,
+                    "orb_deg": 4.68,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "jupiter": {
+                            "lon_deg": 114.48,
+                            "sign": "Cancer",
+                            "speed_deg_per_day": 0.042
+                        },
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        }
+                    },
+                    "importance_score": 0.225
+                },
+                {
+                    "body1": "jupiter",
+                    "body2": "moon",
+                    "aspect_name": "opposition",
+                    "family": "2nd-harmonic",
+                    "vibe": "tension",
+                    "ideal_angle_deg": 180.0,
+                    "angle_measured_deg": 177.774,
+                    "orb_deg": 2.226,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "jupiter": {
+                            "lon_deg": 114.48,
+                            "sign": "Cancer",
+                            "speed_deg_per_day": 0.042
+                        },
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        }
+                    },
+                    "importance_score": 0.83
+                },
+                {
+                    "body1": "jupiter",
+                    "body2": "neptune",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 114.993,
+                    "orb_deg": 5.007,
+                    "phase": "applying",
+                    "out_of_sign": false,
+                    "positions": {
+                        "jupiter": {
+                            "lon_deg": 114.48,
+                            "sign": "Cancer",
+                            "speed_deg_per_day": 0.042
+                        },
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        }
+                    },
+                    "importance_score": 0.165
+                },
+                {
+                    "body1": "jupiter",
+                    "body2": "saturn",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 118.908,
+                    "orb_deg": 1.092,
+                    "phase": "applying",
+                    "out_of_sign": false,
+                    "positions": {
+                        "jupiter": {
+                            "lon_deg": 114.48,
+                            "sign": "Cancer",
+                            "speed_deg_per_day": 0.042
+                        },
+                        "saturn": {
+                            "lon_deg": 355.58,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.049
+                        }
+                    },
+                    "importance_score": 0.859
+                },
+                {
+                    "body1": "mars",
+                    "body2": "mercury",
+                    "aspect_name": "conjunction",
+                    "family": "1st-harmonic",
+                    "vibe": "neutral",
+                    "ideal_angle_deg": 0.0,
+                    "angle_measured_deg": 4.192,
+                    "orb_deg": 4.192,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        },
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        }
+                    },
+                    "importance_score": 0.488
+                },
+                {
+                    "body1": "mars",
+                    "body2": "moon",
+                    "aspect_name": "sextile",
+                    "family": "6th-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 60.0,
+                    "angle_measured_deg": 61.737,
+                    "orb_deg": 1.737,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        },
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        }
+                    },
+                    "importance_score": 0.65
+                },
+                {
+                    "body1": "mars",
+                    "body2": "neptune",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 124.519,
+                    "orb_deg": 4.519,
+                    "phase": "applying",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        },
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        }
+                    },
+                    "importance_score": 0.247
+                },
+                {
+                    "body1": "mars",
+                    "body2": "saturn",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 120.604,
+                    "orb_deg": 0.604,
+                    "phase": "applying",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        },
+                        "saturn": {
+                            "lon_deg": 355.58,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.049
+                        }
+                    },
+                    "importance_score": 0.944
+                },
+                {
+                    "body1": "mars",
+                    "body2": "uranus",
+                    "aspect_name": "opposition",
+                    "family": "2nd-harmonic",
+                    "vibe": "tension",
+                    "ideal_angle_deg": 180.0,
+                    "angle_measured_deg": 174.944,
+                    "orb_deg": 5.056,
+                    "phase": "applying",
+                    "out_of_sign": true,
+                    "positions": {
+                        "mars": {
+                            "lon_deg": 234.97,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 0.712
+                        },
+                        "uranus": {
+                            "lon_deg": 60.03,
+                            "sign": "Gemini",
+                            "speed_deg_per_day": -0.038
+                        }
+                    },
+                    "importance_score": 0.368
+                },
+                {
+                    "body1": "mercury",
+                    "body2": "moon",
+                    "aspect_name": "sextile",
+                    "family": "6th-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 60.0,
+                    "angle_measured_deg": 57.546,
+                    "orb_deg": 2.454,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        },
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        }
+                    },
+                    "importance_score": 0.435
+                },
+                {
+                    "body1": "mercury",
+                    "body2": "neptune",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 120.327,
+                    "orb_deg": 0.327,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        },
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        }
+                    },
+                    "importance_score": 0.922
+                },
+                {
+                    "body1": "mercury",
+                    "body2": "saturn",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 116.412,
+                    "orb_deg": 3.588,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        },
+                        "saturn": {
+                            "lon_deg": 355.58,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.049
+                        }
+                    },
+                    "importance_score": 0.412
+                },
+                {
+                    "body1": "mercury",
+                    "body2": "uranus",
+                    "aspect_name": "opposition",
+                    "family": "2nd-harmonic",
+                    "vibe": "tension",
+                    "ideal_angle_deg": 180.0,
+                    "angle_measured_deg": 179.136,
+                    "orb_deg": 0.864,
+                    "phase": "applying",
+                    "out_of_sign": true,
+                    "positions": {
+                        "mercury": {
+                            "lon_deg": 239.16,
+                            "sign": "Scorpio",
+                            "speed_deg_per_day": 1.031
+                        },
+                        "uranus": {
+                            "lon_deg": 60.03,
+                            "sign": "Gemini",
+                            "speed_deg_per_day": -0.038
+                        }
+                    },
+                    "importance_score": 0.87
+                },
+                {
+                    "body1": "moon",
+                    "body2": "neptune",
+                    "aspect_name": "sextile",
+                    "family": "6th-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 60.0,
+                    "angle_measured_deg": 62.782,
+                    "orb_deg": 2.782,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        },
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        }
+                    },
+                    "importance_score": 0.335
+                },
+                {
+                    "body1": "moon",
+                    "body2": "saturn",
+                    "aspect_name": "sextile",
+                    "family": "6th-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 60.0,
+                    "angle_measured_deg": 58.867,
+                    "orb_deg": 1.133,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        },
+                        "saturn": {
+                            "lon_deg": 355.58,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.049
+                        }
+                    },
+                    "importance_score": 0.824
+                },
+                {
+                    "body1": "moon",
+                    "body2": "uranus",
+                    "aspect_name": "trine",
+                    "family": "3rd-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 120.0,
+                    "angle_measured_deg": 123.319,
+                    "orb_deg": 3.319,
+                    "phase": "separating",
+                    "out_of_sign": true,
+                    "positions": {
+                        "moon": {
+                            "lon_deg": 296.71,
+                            "sign": "Capricorn",
+                            "speed_deg_per_day": 16.105
+                        },
+                        "uranus": {
+                            "lon_deg": 60.03,
+                            "sign": "Gemini",
+                            "speed_deg_per_day": -0.038
+                        }
+                    },
+                    "importance_score": 0.492
+                },
+                {
+                    "body1": "neptune",
+                    "body2": "saturn",
+                    "aspect_name": "conjunction",
+                    "family": "1st-harmonic",
+                    "vibe": "neutral",
+                    "ideal_angle_deg": 0.0,
+                    "angle_measured_deg": 3.915,
+                    "orb_deg": 3.915,
+                    "phase": "separating",
+                    "out_of_sign": false,
+                    "positions": {
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        },
+                        "saturn": {
+                            "lon_deg": 355.58,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.049
+                        }
+                    },
+                    "importance_score": 0.511
+                },
+                {
+                    "body1": "neptune",
+                    "body2": "uranus",
+                    "aspect_name": "sextile",
+                    "family": "6th-harmonic",
+                    "vibe": "harmony",
+                    "ideal_angle_deg": 60.0,
+                    "angle_measured_deg": 60.537,
+                    "orb_deg": 0.537,
+                    "phase": "applying",
+                    "out_of_sign": true,
+                    "positions": {
+                        "neptune": {
+                            "lon_deg": 359.49,
+                            "sign": "Pisces",
+                            "speed_deg_per_day": -0.021
+                        },
+                        "uranus": {
+                            "lon_deg": 60.03,
+                            "sign": "Gemini",
+                            "speed_deg_per_day": -0.038
+                        }
+                    },
+                    "importance_score": 0.822
+                }
+            ],
+            "patterns": [
+                {
+                    "pattern_type": "Grand Trine",
+                    "members": [
+                        "jupiter",
+                        "mars",
+                        "neptune"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mars",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        }
+                    ],
+                    "pattern_score": 0.8,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.444
+                },
+                {
+                    "pattern_type": "Grand Trine",
+                    "members": [
+                        "jupiter",
+                        "mars",
+                        "saturn"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mars",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        }
+                    ],
+                    "pattern_score": 0.8,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.879
+                },
+                {
+                    "pattern_type": "Grand Trine",
+                    "members": [
+                        "jupiter",
+                        "mercury",
+                        "neptune"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mercury",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        }
+                    ],
+                    "pattern_score": 0.8,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.444
+                },
+                {
+                    "pattern_type": "Grand Trine",
+                    "members": [
+                        "jupiter",
+                        "mercury",
+                        "saturn"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mercury",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        }
+                    ],
+                    "pattern_score": 0.8,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.48
+                },
+                {
+                    "pattern_type": "Kite",
+                    "members": [
+                        "jupiter",
+                        "mars",
+                        "moon",
+                        "neptune"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mars",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "moon",
+                            "aspect_name": "opposition"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "moon",
+                            "aspect_name": "sextile"
+                        },
+                        {
+                            "body1": "moon",
+                            "body2": "neptune",
+                            "aspect_name": "sextile"
+                        }
+                    ],
+                    "pattern_score": 0.86,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.537
+                },
+                {
+                    "pattern_type": "Kite",
+                    "members": [
+                        "jupiter",
+                        "mars",
+                        "moon",
+                        "saturn"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mars",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "moon",
+                            "aspect_name": "opposition"
+                        },
+                        {
+                            "body1": "mars",
+                            "body2": "moon",
+                            "aspect_name": "sextile"
+                        },
+                        {
+                            "body1": "moon",
+                            "body2": "saturn",
+                            "aspect_name": "sextile"
+                        }
+                    ],
+                    "pattern_score": 0.86,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.823
+                },
+                {
+                    "pattern_type": "Kite",
+                    "members": [
+                        "jupiter",
+                        "mercury",
+                        "moon",
+                        "neptune"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mercury",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "neptune",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "moon",
+                            "aspect_name": "opposition"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "moon",
+                            "aspect_name": "sextile"
+                        },
+                        {
+                            "body1": "moon",
+                            "body2": "neptune",
+                            "aspect_name": "sextile"
+                        }
+                    ],
+                    "pattern_score": 0.86,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.507
+                },
+                {
+                    "pattern_type": "Kite",
+                    "members": [
+                        "jupiter",
+                        "mercury",
+                        "moon",
+                        "saturn"
+                    ],
+                    "edges": [
+                        {
+                            "body1": "jupiter",
+                            "body2": "mercury",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "saturn",
+                            "aspect_name": "trine"
+                        },
+                        {
+                            "body1": "jupiter",
+                            "body2": "moon",
+                            "aspect_name": "opposition"
+                        },
+                        {
+                            "body1": "mercury",
+                            "body2": "moon",
+                            "aspect_name": "sextile"
+                        },
+                        {
+                            "body1": "moon",
+                            "body2": "saturn",
+                            "aspect_name": "sextile"
+                        }
+                    ],
+                    "pattern_score": 0.86,
+                    "has_out_of_sign": false,
+                    "pattern_strength_score": 0.594
                 }
             ]
         }
